@@ -1,2 +1,2 @@
-# swe-550-theat-model
+# swe-550-threat-model
 Basic repo for threat model assessment
